@@ -1,2 +1,3 @@
-# jucaqi.github.io
-my website: [test](jucaaquino.com)
+# jucaaquino.com
+my website: [test](https://jucaaquino.com)
+
